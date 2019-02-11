@@ -9,7 +9,11 @@ int main()
     cout << "Iveskite varda: " << endl;
     cin >> vardas;
     string sveikinimas;
-      sveikinimas = "Sveikas, " + vardas + "!";
+     if (vardas.back() == 's') {
+    sveikinimas = "Sveikas, " + vardas + "!";
+  } else {
+    sveikinimas = "Sveika, " + vardas + "!";
+  }
     int eilIlgis = sveikinimas.length() + 4;
     string eil1, eil2, eil3, eil4, eil5;
 //Pirma eilute
