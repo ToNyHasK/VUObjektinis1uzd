@@ -31,7 +31,7 @@
 
 - Papildyta programa taip, kad atpažįsta vartotojo lytį ir pagal ją pakoreguoja sveikinimo tekstą
 
-### [v0.1](https://github.com/ToNyHasK/VUObjektinis1uzd/releases/tag/v0.1) - (2018-02-12)
+### [v0.1](https://github.com/ToNyHasK/VUObjektinis1uzd/releases/tag/v0.1) - (2019-02-11)
 
 ***Pridėta***
 
