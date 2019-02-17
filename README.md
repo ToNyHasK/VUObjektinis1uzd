@@ -6,16 +6,14 @@
 - Atspausdinti įrėmintą pasisveikinimą
 - Leisti vartotojui pasirinkti rėmelio dydį
 
-## Įdiegimas (Unix kompiuteryje) naudojant `Clang`kompiliatorių 
+## Įdiegimas (Unix kompiuteryje) 
 
-- `git clone https://github.com/objprog/pasisveikinimas.git`
-- `cd pasisveikinimas`
-- `clang++ -std=c++11 pasisveikinimas.cpp -o pasisveikinimas`
-- `./pasisveikinimas`
+- `git clone https://github.com/ToNyHasK/VUObjektinis1uzd.git`
+- `cd VUObjektinis1uzd`
 
 ## Versijų istorija (changelog)
 
-### [v0.3](https://github.com/ToNyHasK/VUObjektinis1uzd/releases/tag/v0.3) - (2019-02-11)
+### [v1.0](https://github.com/ToNyHasK/VUObjektinis1uzd/releases/tag/v0.3) - (2019-02-11)
 
 **Pridėta**
 
@@ -23,7 +21,7 @@
 
 **Koreguota**
 
-- Atnaujingas **README** failas
+- Atnaujintas **README** failas
 
 ### [v0.2](https://github.com/ToNyHasK/VUObjektinis1uzd/releases/tag/v0.2) - (2019-02-11)
 
